@@ -454,59 +454,59 @@ import {
     const choice = m.text.trim();
     
     if (choice === "1") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://ibb.co/7xLTpy5Z.png' },
         caption: botmenu
       }, { quoted: m});
       } else if (choice === "2") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://ibb.co/7xLTpy5Z.png' },
         caption: ownermenu
       }, { quoted: m});
       } else if (choice === "3") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://ibb.co/7xLTpy5Z.png' },
         caption: groupmenu
       }, { quoted: m});
       } else if (choice === "4") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://ibb.co/7xLTpy5Z.png' },
         caption: funmenu
       }, { quoted: m});
       } else if (choice === "5") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://ibb.co/7xLTpy5Z.png' },
         caption: reactmenu
       }, { quoted: m});
       } else if (choice === "6") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://ibb.co/7xLTpy5Z.png' },
         caption: dlmenu
       }, { quoted: m});
       } else if (choice === "7") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://ibb.co/7xLTpy5Z.png' },
         caption: groupmenu
       }, { quoted: m});
       } else if (choice === "8") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://ibb.co/7xLTpy5Z.png' },
         caption: logomenu
       }, { quoted: m});
       } else if (choice === "9") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://ibb.co/7xLTpy5Z.png' },
         caption: stickermenu
       }, { quoted: m});
       } else if (choice === "10") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://ibb.co/7xLTpy5Z.png' },
         caption: audiomenu
       }, { quoted: m});
       } else if (choice === "11") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://ibb.co/7xLTpy5Z.png' },
         caption: newsmenu
       }, { quoted: m});
       } else if (choice === "12") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://ibb.co/7xLTpy5Z.png' },
         caption: studymenu
       }, { quoted: m});
       } else if (choice === "13") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://ibb.co/7xLTpy5Z.png' },
         caption: toolsmenu
       }, { quoted: m});
       } else if (choice === "14") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://ibb.co/7xLTpy5Z.png' },
         caption: Aimenu
       }, { quoted: m});
       } else if (choice === "15") {
@@ -514,7 +514,7 @@ import {
         caption: religionmenu
       }, { quoted: m});
       } else if (choice === "16") {
-        await conn.sendMessage(m.chat, { image: { url: 'https://i.imgur.com/4IG2V4q.png' },
+        await conn.sendMessage(m.chat, { image: { url: 'https://ibb.co/7xLTpy5Z.png' },
         caption: pluginmenu
       }, { quoted: m});
       } else {

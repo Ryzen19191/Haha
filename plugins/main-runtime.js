@@ -10,7 +10,7 @@ m.react('⏳')
       }) * 1000
     }
     let muptime = clockString(_muptime)
-    let str = `🟢ᴘʀɪɴᴄᴇ ᴍᴅ ᴜᴘᴛɪᴍᴇ\n\n🎗️ʙᴏᴛ ᴀᴄᴛɪᴠᴇ ᴅᴜʀᴀᴛɪᴏɴ\n *${muptime}⏰*`
+    let str = `🟢ᴋᴀsʜᴍɪʀɪ ᴍᴅ ᴜᴘᴛɪᴍᴇ\n\n🎗️ʙᴏᴛ ᴀᴄᴛɪᴠᴇ ᴅᴜʀᴀᴛɪᴏɴ\n *${muptime}⏰*`
     conn.sendMessage(m.chat, {
       text: str,
       contextInfo: {
@@ -18,7 +18,7 @@ m.react('⏳')
       mentionedJid: [m.sender],
       isForwarded: true,
             forwardedNewsletterMessageInfo: {
-                newsletterJid: '120363199257221654@newsletter',
+                newsletterJid: '120363312991035785@newsletter',
                 newsletterName: global.author,
                 serverMessageId: -1
             },
