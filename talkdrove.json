@@ -1,10 +1,10 @@
 {
     "bot-name": "PRINCEAI",
     "description": "whatsapp user bot",
-    "logo": "https://qu.ax/lwgPL.jpg",
+    "logo": "https://ibb.co/7xLTpy5Z.jpg",
     "keywords": ["bot"],
-    "documentation-link": "https://shortsession.onrender.com",
-    "owner-verification":"shoroking38@gmail.com",
+    "documentation-link": "https://kashmiri-md-774f26e4566a.herokuapp.com/",
+    "owner-verification":"kashmirix3@gmail.com",
   
       "env": {
     "SESSION_ID": {
@@ -20,7 +20,7 @@
     "OWNER_NUMBER": {
       "description": "put your Number and name for Owner",
       "required": true,
-      "value": "6281220527432,Prince♥️The Developer"
+      "value": "923255156992,Kashmiri♥️The Developer"
     },
     "owner_react_emojie": {
       "description": "put one emojie for owner reacts",
@@ -75,7 +75,7 @@
     "STATUS_MSG": {
       "description": "Status reply msg",
       "required": false,
-      "value": "Your Status has been seen by Prince bot"
+      "value": "Your Status has been seen by Kashmiri bot"
     },
     "REJECTSCALLS": {
       "description": "reject calls",
@@ -95,7 +95,7 @@
     "PACK_NAME": {
       "description": "put your stickers pack name",
       "required": false,
-      "value": "Prince♥️"
+      "value": "Kashmiri♥️"
     },
     "DL_MSG": {
       "description": "Video downloader caption",

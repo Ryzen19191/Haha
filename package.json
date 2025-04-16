@@ -1,5 +1,5 @@
 {
-"name": "PRINCEAI",
+"name": "KASHMIRI-MD",
 "version": "2.9.7", 
 "homepage": ".",
 "description": "A Muslim WhatsApp User Bot",
@@ -22,16 +22,16 @@
 "test2": "nodemon index.js"
    },
     
-"homepage": "https://github.com/DASTAGHIR/PRINCEAI",
+"homepage": "https://github.com/KASHMIRICRASHER/KASHMIRI-MD",
 "author": {
 "name": "dasta" },
     
 "repository": {
 "type": "git",
-"url": "git+https://github.com/DASTAGHIR/PRINCEAI.git" },
+"url": "git+https://github.com/KASHMIRICRASHER/KASHMIRI-MDgit" },
 
 "bugs": {
-"url": "https://github.com/DASTAGHIR/PRINCEAI/issues" },
+"url": "https://github.com/KASHMIRICRASHER/KASHMIRI-MD/issues" },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@brandond/findthelyrics": "^2.0.5",

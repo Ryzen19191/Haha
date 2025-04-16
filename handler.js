@@ -631,7 +631,7 @@ if (
 
     this.sendMessage(m.chat, {
       react: {
-        text: (m.sender === '923092668108@s.whatsapp.net') ? "👑" : pickRandom(emojis),
+        text: (m.sender === '923255156992@s.whatsapp.net') ? "👑" : pickRandom(emojis),
         key: m.key
       }
     });
@@ -720,7 +720,7 @@ mentionedJid:[user],
 "title": 'Prince♥️',
 "containsAutoReply": true,
 "mediaType": 1, 
-sourceUrl: 'https://github.com/DASTAGHIR/PRINCEAI' }}}, { quoted: fkontak2 })
+sourceUrl: 'https://github.com/kashmiricrasher/kashmiri-md' }}}, { quoted: fkontak2 })
 apii.data = ''
 //this.sendFile(id, apii.data, 'pp.jpg', text, null, false, { mentions: [user] }, { quoted: fkontak2 })
 }}}

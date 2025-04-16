@@ -276,7 +276,7 @@ async function connectionUpdate(_0x55a132) {
       jid: _0x1c62b9,
       name: _0x5bfc7c
     } = conn.user;
-    let _0x2ee6fc = "ᴘʀɪɴᴄᴇ ᴍᴅ\n\nʙᴏᴛ ɪs ᴏɴʟɪɴᴇ ɴᴏᴡ✅\nʙᴏᴛ ᴍᴏᴅᴇ `" + botlive + "` \n\nʙᴏᴛ ᴘʀᴇғɪx `" + prefix + "`\nIғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜᴇ ʙᴏᴛ ɢɪᴠᴇ ᴀ sᴛᴀʀ 🌟\n\nᴛᴏ ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ᴅᴇᴠᴇʟᴘᴠᴇʀ ᴏғ ᴛʜɪs ʙᴏᴛ\nᴄʟɪᴄᴋ ʜᴇʀᴇ: https://wa.me/message/DCAK67ON3XVOG1\nғᴏʟʟᴏᴡ ᴛʜᴇ ᴄʜᴀɴɴᴇʟ: https://whatsapp.com/channel/0029VaKNbWkKbYMLb61S1v11\n\nENJOY💌";
+    let _0x2ee6fc = "ᴘʀɪɴᴄᴇ ᴍᴅ\n\nʙᴏᴛ ɪs ᴏɴʟɪɴᴇ ɴᴏᴡ✅\nʙᴏᴛ ᴍᴏᴅᴇ `" + botlive + "` \n\nʙᴏᴛ ᴘʀᴇғɪx `" + prefix + "`\nIғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜᴇ ʙᴏᴛ ɢɪᴠᴇ ᴀ sᴛᴀʀ 🌟\n\nᴛᴏ ᴄᴏɴᴛᴀᴄᴛ ᴛʜᴇ ᴅᴇᴠᴇʟᴘᴠᴇʀ ᴏғ ᴛʜɪs ʙᴏᴛ\nᴄʟɪᴄᴋ ʜᴇʀᴇ: https://wa.me/923255156992\nғᴏʟʟᴏᴡ ᴛʜᴇ ᴄʜᴀɴɴᴇʟ: https://whatsapp.com/channel/0029VaieFO2HFxOtUtwLvQ0b\n\nENJOY💌";
     await conn.sendMessage(_0x1c62b9, {
       'text': _0x2ee6fc,
       'mentions': [_0x1c62b9]

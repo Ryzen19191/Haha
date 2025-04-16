@@ -1,6 +1,6 @@
-name: princemd
+name: kashmirimd
 services:
-  - name: prince-md-service
+  - name: kashmiri-md-service
     type: web
     ports:
       - 3000
