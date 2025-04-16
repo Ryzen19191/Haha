@@ -24,7 +24,7 @@ m.react('⏳')
             },
       forwardingScore: 999,
       externalAdReply: {
-      title: "🎗️ᴘʀɪɴᴄᴇ ᴍᴅ🎗️",
+      title: "🎗️ᴋᴀsʜᴍɪʀɪ ᴍᴅ🎗️",
       body: "ʀᴜɴɪɴɢ sɪɴᴄᴇ",
       thumbnailUrl: pp,
       sourceUrl: '',

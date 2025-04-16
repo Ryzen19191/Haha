@@ -13,12 +13,12 @@ let handler = async (_0x5ccbd2, {
     'mimetype': 'audio/mp4',
     'ptt': true,
     'waveform': [100, 0, 100, 0, 100, 0, 100],
-    'fileName': 'Prince',
+    'fileName': 'Kashmiri',
     'contextInfo': {
       'mentionedJid': [_0x5ccbd2.sender],
       'externalAdReply': {
         'title': "🎗️ᴋᴀsʜᴍɪʀɪ ᴍᴅ ɪs ᴀʟɪᴠᴇ ʀᴇᴄɪᴛᴇ ᴅᴀʀᴏᴏᴅ sʜᴀʀᴇᴇғ🎗️",
-        'body': "PRINCE BOT",
+        'body': "KASHMIRI BOT",
         'thumbnail': _0x3eeece.readFileSync("./lib/source/drd.jpg"),
         'sourceUrl': 'https://whatsapp.com/channel/0029VaieFO2HFxOtUtwLvQ0b',
         'mediaType': 0x1,

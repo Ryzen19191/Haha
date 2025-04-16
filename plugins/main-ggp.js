@@ -1,8 +1,8 @@
 let handler = async m => m.reply(`𝚂𝚄𝙿𝙿𝙾®𝚃 𝙶𝚁𝙾𝚄𝙿 𝙻𝙸𝙽𝙺
 
-*${mssg.link}*: https://whatsapp.com/channel/0029VaieFO2HFxOtUtwLvQ0b
+*${msg.link}*: https://whatsapp.com/channel/0029VaieFO2HFxOtUtwLvQ0b
 
-*${mssg.link}*: https://whatsapp.com/channel/0029VaieFO2HFxOtUtwLvQ0b
+*${msg.link}*: https://whatsapp.com/channel/0029VaieFO2HFxOtUtwLvQ0b
 
 *OWNER*
 ${developer}
