@@ -19,7 +19,7 @@
     "BOT_NAME": {
       "description": "put your BOT a name",
       "required": true,
-      "value": "PRINCE-BOT"
+      "value": "KASHMIRI-BOT"
     },
     "OWNER_NUMBER": {
       "description": "put your Number and name for Owner",
